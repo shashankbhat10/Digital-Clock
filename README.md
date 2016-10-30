@@ -1,7 +1,7 @@
 # Digital-Clock
 
 A minimalistic clock made using css and javascript. <br/>
-[Demo] (https://codepen.io/shashankbhat10/pen/ZpdybN)
+[DEMO] (https://codepen.io/shashankbhat10/full/ZpdybN/)
 
 # To-Do
 
